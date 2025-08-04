@@ -2,7 +2,7 @@
 
 **Author:** Kiran Guru  
 **Tools Used:** Power BI, DAX, Excel  
-**File:** [Pizza_Sales_Dashboard.pbix](https://github.com/KIRANNATH-GURUNATHAN/MY-PIZZA-DASHBOARD/blob/6d3c177759be1a2e3394240dcb52ca4e475de075/KIRAN'S%20PIZZA%20DASH%20BOARD.pbix)
+**File:** [Kiran's_Pizza_Sales_Dashboard.pbix](https://github.com/KIRANNATH-GURUNATHAN/MY-PIZZA-DASHBOARD/blob/6d3c177759be1a2e3394240dcb52ca4e475de075/KIRAN'S%20PIZZA%20DASH%20BOARD.pbix)
 
 ---
 
@@ -34,5 +34,53 @@ This interactive dashboard delivers powerful insights into pizza sales performan
 ---
 
 ## 📁 File Structure
+
+| File Name                              | Description                                  |
+|----------------------------------------|----------------------------------------------|
+| `Kiran's_Pizza_Sales_Dashboard.pbix`   | Main Power BI report file                    |
+| `.gitignore`                           | Git cleanup rules                            |
+| `LICENSE`                              | MIT license for open reuse                   |
+| `README.md`                            | Project summary and documentation            |
+
+
+---
+
+## 🚀 What Makes This Unique?
+
+Unlike generic dashboards, this one is:
+- Crafted with real-world KPIs used by restaurant chains
+- Designed for storytelling — not just charts
+- Built by **Kiran Guru** with a passion for visual analytics  
+- Uses clean, minimal UI with smart DAX logic under the hood
+
+---
+
+## 📌 Sample Visual Preview
+
+![Dashboard Preview](images/pizza_dashboard_preview.png)
+
+---
+
+## 📥 Getting Started
+
+1. Clone this repo or download the `.pbix` file  
+2. Open it in Power BI Desktop  
+3. Connect with updated data if needed (replace Excel source)  
+4. Explore and customize as you wish!
+
+---
+
+## 📧 Contact
+
+**Kiran Guru**  
+📩 kiranguru1205@gmail.com  
+📍 India | Passionate Power BI Developer
+
+---
+
+## ⭐️ If you found this project interesting, don’t forget to give it a star!
+
+
+
 
 
