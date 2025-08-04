@@ -2,7 +2,7 @@
 
 **Author:** Kiran Guru  
 **Tools Used:** Power BI, DAX, Excel  
-**File:** [Pizza_Sales_Dashboard.pbix](Pizza_Sales_Dashboard.pbix)
+**File:** [Pizza_Sales_Dashboard.pbix](https://github.com/KIRANNATH-GURUNATHAN/MY-PIZZA-DASHBOARD/blob/6d3c177759be1a2e3394240dcb52ca4e475de075/KIRAN'S%20PIZZA%20DASH%20BOARD.pbix)
 
 ---
 
