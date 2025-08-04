@@ -57,7 +57,7 @@ Unlike generic dashboards, this one is:
 
 ## 📌 Sample Visual Preview
 
-![Dashboard Preview](images/pizza_dashboard_preview.png)
+![Dashboard Preview](https://github.com/KIRANNATH-GURUNATHAN/MY-PIZZA-DASHBOARD/blob/fcfd1a9fb83b4b845b9fc2b69f3d55e62c3aaec1/PIZZA%20DASHBOARD%20SS%202.png)
 
 ---
 
